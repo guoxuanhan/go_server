@@ -1,0 +1,9 @@
+{
+  "Name":"server Demo",
+  "Host":"0.0.0.0",
+  "TcpPort":9999,
+  "MaxConn":3000,
+  "WorkerPoolSize":10,
+  "LogDir": "./game_log",
+  "LogFile":"game.log"
+}

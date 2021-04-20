@@ -1,0 +1,4 @@
+<MODULE>2021/03/17 15:14:08 [DEBUG]zlogger_test.go:29: ===> debug content ~~666
+<MODULE>2021/03/17 15:14:08 [DEBUG]zlogger_test.go:30: ===> debug content ~~888
+<MODULE>2021/03/17 15:14:08 [ERROR]zlogger_test.go:31: ===> Error!!!! ~~~555~~~
+<MODULE>2021/03/17 15:14:08 [ERROR]zlogger_test.go:37: ===> Error  after debug close !!!!
